@@ -1,0 +1,6 @@
+{
+  "name": "SaleSnap",
+  "description": "Fast, minimal-tap small-business sales tracker with quick sales recording, real-time dashboard, product catalog, sales reporting, and receipt settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
